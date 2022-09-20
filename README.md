@@ -11,7 +11,7 @@ I'm ready to handle any product development combining extensive and I'm up to da
 
 👯 I’m looking to collaborate on blockchain and machine learning development.
 ### 🤝 Connect with me:
-- 🎭 Skype: https://join.skype.com/invite/ulfgxLqJgzEL
+- 🎭 Skype: live:.cid.d22f6a588bc322b, https://join.skype.com/invite/ulfgxLqJgzEL
 - 🎫 Telegram: https://t.me/maxellman
 - 📧 Email: happydreamman@gmail.com
 
