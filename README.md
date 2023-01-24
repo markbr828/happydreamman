@@ -18,7 +18,7 @@ I'm ready to handle any product development combining extensive and I'm up to da
 ## Blockchain skills
 * Language: Solidity, Golang, Javascript, Python, C++, Rust
 * Version control with Git and Github
-* New blockchain creation with golang, cosmos sdk, tendermint core, geth
+* New Cosmos blockchain creation with golang, cosmos sdk, tendermint core, geth
 * Smart Contract development, test and audit
 * OpenZeppelin, Truffle, hardhat, Remix
 * Experience in Ethereum, BSC, Polygon, Solana, Avalanche, Terra, Evmos chain
