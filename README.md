@@ -37,4 +37,4 @@ I'm ready to handle any product development combining extensive and I'm up to da
 * ML algorithms-  classification, dilated causal, ctc, attention, finetuning, specaugument,... 
 * ML frameworks- TensorFlow, PyTorch
 * AWS, GCP, MultiGPU training
-* ML fields- Speech, NLP, CV, RL
+* ML fields- Speech, NLP, CV, RL, OpenAI ChatGPT, GPT-3
